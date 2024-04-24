@@ -1,0 +1,10 @@
+.mySelect {
+    padding: 5px 15px;
+    color: teal;
+    font-size: 12px;
+    background: transparent;
+    border: 2px dotted teal;
+    cursor: pointer;
+    outline: none;
+    margin: 5px 0;
+}
